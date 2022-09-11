@@ -1,3 +1,3 @@
 # CharacterCounter
 
-This a simple character counter.
+This is a simple character counter.
